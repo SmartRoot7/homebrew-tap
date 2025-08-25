@@ -1,5 +1,5 @@
 cask "clideck-agent" do
-  version "0.1.3"
+  version "0.1.4"
   sha256 :no_check
 
   url "https://github.com/SmartRoot7/CliDeck/releases/download/v#{version}/CliDeckAgent-#{version}.zip"
